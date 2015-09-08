@@ -1,0 +1,103 @@
+~
+OfferingCategory
+~
+Coaching
+Mentoring
+Supervision
+Training
+Website design and creation
+Marketing, PR, advertising
+Internet or computing support, programming, other
+Other personal service (personally delivered)
+Broadband, other telecommunications
+Other general service (utility, etc)
+Software
+Headsets, telephones
+Cards and other gifts
+Books, e-books, other publications
+Training materials
+Other product
+~
+TargetAudienceGeneral
+~
+Coach
+Mental Health Professional
+Trainer
+Parent
+Teacher
+Mentor
+Manager or Executive
+Business Owner
+~
+TargetAudienceCoaches
+~
+Personal/Life Coach
+Business Coach
+Executive/Corporate Coach
+In-house Coach
+Career Coach
+Christian Coach
+ADHD/ADD Coach
+~
+TopicsBusinessAndCareer
+~
+Purpose, meaning, visioning
+Synchronicity
+Authentic business, people/profit/planet
+Marketing, advertising, public speaking
+Management, leadership
+Time management, goals, decision making
+Wealth, prosperity, finances
+Career
+Voluntary simplicity, downsizing
+General
+~
+TopicsPersonalSuccess
+~
+Talking, listening, questions
+Relationships, assertiveness, boundaries
+Happiness, peaceful living
+Health
+Inspirational, poetry, fiction
+Typing, testing (MBTI, etc)
+NLP, hypnosis, EFT, Emotional Intelligence
+Speed reading, mind-mapping, memory skills
+Self-coaching
+Creativity, writing
+De-cluttering, organisation
+Positive thinking, affirmations, visualisations
+Meditation, mindfulness, flow, intuition, focus
+General
+~
+DeliveryMechanismService
+~
+Face to face
+Telephone
+Email
+Website
+~
+DeliveryMechanismProduct
+~
+Download
+Collect/in shop
+Delivered
+~
+GroupSize
+~
+One to one
+Small groups (2 - 4)
+Medium sized groups (5 - 20)
+Large groups (21 - 100)
+Very large groups (100 + )
+~
+BooksForCoaches
+~
+Skills and Models
+The business of coaching
+Theory and Research
+Books by coaches
+Gifts for clients
+The bigger picture
+Coaching
+~
+

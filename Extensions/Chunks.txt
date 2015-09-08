@@ -1,0 +1,14 @@
+<ControlPanelBookReviewForm>
+<form name="Form" method="post" action="/cp/BookReviews">
+Send preview to 
+              <input type="hidden" name="CPBookReview" value="Yes">
+              <input type="text" name="EmailAddress" value="%s" >
+              <input type="submit" name="Submit" value="Send">
+      </form><br><br>
+<form name="Form" method="post" action="/cp/BookReviews">
+<input type="checkbox" name="ReviewCorrect" value="Yes"> Current review is correct, send to subscribers now
+<input type="hidden" name="CPBookReviewSend" value="Yes">
+<input type="submit" name="Submit" value="Send">
+</form>
+</ControlPanelBookReviewForm>
+
